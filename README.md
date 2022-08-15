@@ -1,6 +1,6 @@
-<p align="center" style="color:blue;font-size:18px;">
- Hi there 👋 
-</p>
+<h align="center" style="color:blue;font-size:18px;">
+<strong> Hi there 👋 </strong>
+</h>
 
 
 - 🔭 I’m currently working on programming   .                                                                                               
