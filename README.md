@@ -1,4 +1,7 @@
- ##                                                                       Hi there 👋
+<p align="center">
+ ## Hi there 👋
+</p>
+
 
  
 - 🔭 I’m currently working on programming   .                                                                                               
