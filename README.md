@@ -10,7 +10,8 @@
 
 &nbsp;
 <p align="center">
-![JXA0](https://user-images.githubusercontent.com/63016233/159158595-6396e478-11f1-4561-9dd0-dc831d4042eb.gif)    
+ <img src="![JXA0](https://user-images.githubusercontent.com/63016233/159158595-6396e478-11f1-4561-9dd0-dc831d4042eb.gif)" alt="animated" />
+
 </p>
 
 
