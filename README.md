@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 I’m currently working on programming   .                                                                                               
+- 🔭 I’m currently working on programming.                                                                                               
 - 🌱 I’m currently learning ASP .Net Core.                                                                  
 - 💬 Ask me about anything
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/songul-bayer/)
