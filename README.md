@@ -13,14 +13,3 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/63016233/159158595-6396e478-11f1-4561-9dd0-dc831d4042eb.gif" alt="animated" />
 </p>
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?repository=YourUsername.RepoName)
-
-
- 
-
-
-                                                        
-
-
-
